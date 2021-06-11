@@ -1,0 +1,70 @@
+.header {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 46px;
+	background-color: red; 
+}
+
+.main {
+	position: absolute;
+	height: calc(100% - 50px);
+	left: 0;
+	right: 0;
+	bottom: 0;
+	border: none;
+}
+
+/* -------MENU BAR-------- */
+ul {
+  	position: absolute;
+  	top: 0;
+  	right: 0;
+  	left: 0;
+	list-style-type: none;
+	margin-top:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.all-centuries {
+	margin-left: 38.5%;
+	margin-right: 38.5%;
+}
+
+li {
+  	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+  	background-color: #111;
+}
+
+/* -------CLOCK-------- */
+.clock{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	color: white;
+	font-size: 80px;
+	padding: 0px 5px 0px 5px;
+}
+
+/* -------BACKGORUND------- */
+body {
+	background-image: url("images/wallpaper-menu.jpeg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
