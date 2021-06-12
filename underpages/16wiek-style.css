@@ -1,0 +1,150 @@
+.main {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    background: white;
+}
+
+/*-------CHUSETCZKA-------*/
+.chusteczka {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.text-chusteczka {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 80px;
+	border: none;
+	width: 700px; 
+}
+
+.napis-chusteczka {
+	text-align: center;
+}
+
+#photo-chusteczka {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------BIDET-------*/
+.bidet {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.napis-bidet {
+	text-align: center;
+}
+
+.text-bidet {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 80px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-bidet {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------PISTOLET-------*/
+.pistolet {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.napis-pistolet {
+	text-align: center;
+}
+
+.text-pistolet {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 80px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-pistolet {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------OŁÓWEK-------*/
+.olowek {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.napis-olowek {
+	text-align: center;
+}
+
+.text-olowek {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 80px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-olowek {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------MIKROSKOP-------*/
+.mikroskop {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.napis-mikroskop {
+	text-align: center;
+}
+
+.text-mikroskop {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 90px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-mikroskop {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
