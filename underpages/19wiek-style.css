@@ -1,0 +1,156 @@
+.main {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+}
+
+/*-------KALKULATOR-------*/
+.kalkulator {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 430px;
+}
+
+.text-kalkulator {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 80px;
+	border: none;
+	width: 700px; 
+}
+
+.napis-kalkulator {
+	text-align: center;
+}
+
+#photo-kalkulator {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------LODÓWKA-------*/
+.lodowka {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 470px;
+}
+
+.napis-lodowka {
+	text-align: center;
+}
+
+.text-lodowka {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 80px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-lodowka {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------SCHODY RUCHOME-------*/
+.schody-ruchome {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.napis-schody-ruchome {
+	text-align: center;
+}
+
+.text-schody-ruchome {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 80px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-schody-ruchome {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------STETOSKOP-------*/
+.stetoskop {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 450px;
+}
+
+.napis-stetoskop {
+	text-align: center;
+}
+
+.text-stetoskop {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 80px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-stetoskop {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------SZYBOWIEC-------*/
+.szybowiec {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.napis-szybowiec {
+	text-align: center;
+}
+
+.text-szybowiec {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 90px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-szybowiec {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* -------BACKGORUND------- */
+body {
+	background-image: url("wallpaper/wallpaper-underpage.jpeg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
