@@ -1,1 +1,159 @@
 
+.main {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+}
+
+/*-------ANTYBIOTYKI-------*/
+.antybiotyki {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 430px;
+}
+
+.napis-antybiotyki {
+	text-align: center;
+}
+
+.text-antybiotyki {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 150px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-antybiotyki {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------KOMPUTER-------*/
+.komputer {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 470px;
+	margin-top: 2%;
+}
+
+.napis-komputer {
+	text-align: center;
+}
+
+.text-komputer {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 150px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-komputer {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------RADIO-------*/
+.schody-radio {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+}
+
+.napis-radio {
+	text-align: center;
+}
+
+.text-radio {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 105px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-radio {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------SAMOCHÓD-------*/
+.samochod {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 450px;
+}
+
+.napis-samochod {
+	text-align: center;
+}
+
+.text-samochod {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 147px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-samochod {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*-------SAMOLOT-------*/
+.samolot {
+	top: 0;
+	left: 0;
+	margin-top: 4%;
+	width: 100%;
+	height: 500px;
+}
+
+.napis-samolot {
+	text-align: center;
+}
+
+.text-samolot {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	height: 102px;
+	border: none;
+	width: 700px; 
+}
+
+#photo-samolot {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* -------BACKGORUND------- */
+body {
+	background-image: url("wallpaper/wallpaper-underpage.jpeg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
